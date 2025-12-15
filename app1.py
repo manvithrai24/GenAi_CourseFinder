@@ -14,8 +14,8 @@ import google.generativeai as genai
 # 1. CONFIGURATION & KEYS
 # ==========================================
 
-GEMINI_API_KEY = "AIzaSyAANSQuZsnKiCTZplanuv4C2n5Dn1Dqtok"
-SERPAPI_API_KEY = "eef3e8671c56799432de722c444f1166e80d59abac671f29aa61f3f3f2bab719"
+GEMINI_API_KEY = "AIzaSyDqtok"
+SERPAPI_API_KEY = "eef3e862bab719"
 
 # Fixed default limit
 FIXED_RESULT_LIMIT = 30
